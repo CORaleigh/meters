@@ -1,0 +1,44 @@
+{
+  "1698074633476": {
+    "originalName": "Raleigh_Water_W.png",
+    "fileName": "1698074633476.png",
+    "size": 63203,
+    "url": "${appResourceUrl}/images/widget_2/1698074633476.png",
+    "created": 1698074633476,
+    "resourcesPrefix": "images/widget_2",
+    "referedIds": [],
+    "originId": "1698074633476",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1167,
+    "originalHeight": 729
+  },
+  "1699017009396": {
+    "originalName": "Raleigh_Water_BK.jpg",
+    "fileName": "1699017009396.jpg",
+    "size": 32691,
+    "url": "${appResourceUrl}/images/widget_19/1699017009396.jpg",
+    "created": 1699017009396,
+    "resourcesPrefix": "images/widget_19",
+    "referedIds": [],
+    "originId": "1699017009396",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 583,
+    "originalHeight": 364
+  },
+  "1699017444285": {
+    "originalName": "Raleigh_Water_BK.png",
+    "fileName": "1699017444285.png",
+    "size": 29957,
+    "url": "${appResourceUrl}/images/widget_19/1699017444285.png",
+    "created": 1699017444285,
+    "resourcesPrefix": "images/widget_19",
+    "referedIds": [],
+    "originId": "1699017444285",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 583,
+    "originalHeight": 364
+  }
+}
