@@ -11248,9 +11248,8 @@
   "originExbVersion": "1.13.0",
   "attributes": {
     "portalUrl": "https://maps.raleighnc.gov/portal",
-    "clientId": "IWsdRCGAQZqOwBmy"    
     "isWebTier": false,
-    "clientId": "",
+    "clientId": "IWsdRCGAQZqOwBmy",
     "title": "PUMA App - Meters - test JG",
     "description": "",
     "type": "Web Experience",
